@@ -1,4 +1,4 @@
-Hi! Does anybody want to discuss topic of interests? I will start working on a temporary topic to submit for the checkpoint.
+Hi! Does anybody want to discuss topic of interests? I will start working on a temporary topic to submit for the checkpoint - Daimeng
 
 # COGS118A Project template
 This is your group repo for your final project for COGS118A
