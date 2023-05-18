@@ -1,5 +1,9 @@
 Hi! Does anybody want to discuss topic of interests? I will start working on a temporary topic to submit for the checkpoint - Daimeng
 
+Whats' up lets meet Friday night to knock out this proposal. 
+Here is an invite link to the discord i made so that we can communicate:
+https://discord.gg/8naGrMCR
+
 # COGS118A Project template
 This is your group repo for your final project for COGS118A
 
